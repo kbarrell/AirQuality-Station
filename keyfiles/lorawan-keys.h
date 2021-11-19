@@ -1,8 +1,8 @@
 /*******************************************************************************
  *
- *  File:          lorawan-keys_example.h
+ *  File:          lorawan-keys.h
  * 
- *  Function:      Example for lorawan-keys.h required by LMIC-node.
+ *  Function:      lorawan-keys.h required by LMIC-node.
  *
  *  Copyright:     Copyright (c) 2021 Leonel Lopes Parente
  *
